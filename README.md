@@ -9,4 +9,4 @@ I took the Bootstrap CSS and cut it down to the minimum required to appropriatel
 - Lines from the Basic example found here: https://angular-ui.github.io/ui-select/;
 - Lines specific to our implementation that may be applicable or not.
 
-I am choosing to share this in case it is useful to anyone who needs to use the ui-select Bootstrap theme but isn't using Bootstrap. Save yourself some time, and start here.
+I am choosing to share this in case it is useful to anyone who needs to use the ui-select Bootstrap theme but isn't using Bootstrap. Save yourself some time, and start here. Our project is using Sass, but if you are not, only the last section utilizes that. Feel free to remove or customize.
